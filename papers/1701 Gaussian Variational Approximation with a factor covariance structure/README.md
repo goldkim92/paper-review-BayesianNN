@@ -1,5 +1,5 @@
 ## Gaussian Variational Approximation with a factor covariance structure (VAFC)
-[paper](https://arxiv.org/pdf/1701.03208.pdf) by Victor M.-H. Ong, David J.Nott, and Michael S. Smith 
+[paper](https://arxiv.org/pdf/1701.03208.pdf) by Victor M.-H. Ong, David J.Nott, and Michael S. Smith, 
 from National University of Singapore
 
 ### Abstract
