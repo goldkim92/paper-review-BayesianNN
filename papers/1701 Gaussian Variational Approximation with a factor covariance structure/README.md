@@ -16,7 +16,7 @@ with an unrestricted covariance matrix can be computationally burdensome in many
 because the number of elements in the covariance matrix increases quadratically with 
 the dimension of the model parameter. 
 
-**solve it by low-dimensional factor covarianc structures**
+**solve it by low-dimensional factor covariance structures**
 > To circumvent this problem, low-dimensional factor covariance structures are considered.
 General stochastic gradient approaches to efficiently perform the optimization are described, 
 with gradient estimates obtained using so-called "reparameterization trick". 
