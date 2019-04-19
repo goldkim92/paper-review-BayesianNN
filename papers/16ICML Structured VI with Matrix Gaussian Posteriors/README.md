@@ -20,7 +20,8 @@
 
 
 ## Pre-requisite
-Sparse gaussian processes using pseudo-inputs [summary]
-Dropout as a bayesian approximation [summary]
-Variational dropout and the local reparameterization trick [summary]
+matrix normal distribution [[wiki](https://en.wikipedia.org/wiki/Matrix_normal_distribution)] <br>
+Sparse gaussian processes using pseudo-inputs [summary] <br>
+Dropout as a bayesian approximation [summary] <br>
+Variational dropout and the local reparameterization trick [summary] <br>
 
