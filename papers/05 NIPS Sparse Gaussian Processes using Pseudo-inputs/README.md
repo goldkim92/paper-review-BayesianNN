@@ -15,4 +15,4 @@
 ## Method
 Similar with predictive distribution in GP (figure a) regression model, SPGP (figure b) calculates predictive distribution based on M pseudo-inputs and hyperparemeters composed in the covariance function. M pseudo-inputs and hyperparameters are opitmized in gradient ascent method by maximizing the marginal likelihood. As a result, adversarially chosen initial M pseudo-inputs (red crosses) spread along the extent of the training data (blue crosses)
 
-![](img/img1.png)
+![](img1.png)
