@@ -21,7 +21,7 @@
 
 ## Pre-requisite
 matrix normal distribution [[wiki](https://en.wikipedia.org/wiki/Matrix_normal_distribution)] <br>
-Sparse gaussian processes using pseudo-inputs [summary] <br>
+Sparse gaussian processes using pseudo-inputs [[summary](../05%20NIPS%20Sparse%20Gaussian%20Processes%20using%20Pseudo-inputs)] <br>
 Dropout as a bayesian approximation [summary] <br>
 Variational dropout and the local reparameterization trick [summary] <br>
 
