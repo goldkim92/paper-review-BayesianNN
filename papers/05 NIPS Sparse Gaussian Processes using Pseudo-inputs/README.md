@@ -1,5 +1,5 @@
 ## Sparse Guassian Processes using Pseudo-inputs (SPGP)
-[paper]() by Edward Snelson and Zoubin Ghahramani, from University College London
+[paper](http://www.gatsby.ucl.ac.uk/~snelson/SPGP_up.pdf) by Edward Snelson and Zoubin Ghahramani, from University College London
 
 ## Abstract
 **new approach by introducing pseudo-input points learned by optimization**
