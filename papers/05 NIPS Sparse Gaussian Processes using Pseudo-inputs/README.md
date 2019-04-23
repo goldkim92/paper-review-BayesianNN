@@ -13,5 +13,6 @@
 
 
 ## Method
-The predictive distribution of GP regression is
-<a href="https://www.codecogs.com/eqnedit.php?latex=p(y|x,D)=N(y|k_x^T(K_N&plus;\sigma^2I)^{-1}&space;y,&space;K_{xx}-k_x^T(K_N&plus;\sigma^2I)^{-1}k_x&plus;\sigma^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p(y|x,D)=N(y|k_x^T(K_N&plus;\sigma^2I)^{-1}&space;y,&space;K_{xx}-k_x^T(K_N&plus;\sigma^2I)^{-1}k_x&plus;\sigma^2)" title="p(y|x,D)=N(y|k_x^T(K_N+\sigma^2I)^{-1} y, K_{xx}-k_x^T(K_N+\sigma^2I)^{-1}k_x+\sigma^2)" /></a>
+Similar with predictive distribution in GP (figure a) regression model, SPGP (figure b) calculates predictive distribution based on M pseudo-inputs and hyperparemeters composed in the covariance function. M pseudo-inputs and hyperparameters are opitmized in gradient ascent method by maximizing the marginal likelihood. As a result, adversarially chosen initial M pseudo-inputs (red crosses) spread along the extent of the training data (blue crosses)
+
+![](img/img1.png)
