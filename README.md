@@ -6,3 +6,5 @@
 [[summary](papers/16ICML%20Structured%20VI%20with%20Matrix%20Gaussian%20Posteriors)]
 - 1701 Gaussian variational approximation with a factor covariance structure 
 [[summary](papers/1701%20Gaussian%20Variational%20Approximation%20with%20a%20factor%20covariance%20structure)]
+- 1803 Understanding Measures of Uncertainty for Adversarial Example Detection 
+[[summary](papers/1803%20Understanding%20Measures%20of%20Uncertainty)]
