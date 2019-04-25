@@ -1,5 +1,5 @@
 ## Understanding Measures of Uncertainty for Adversarial Example Detection
-[paper]() by Lewis Smith and Yarin Gal, from University of Oxford
+[paper](https://arxiv.org/pdf/1803.08533.pdf) by Lewis Smith and Yarin Gal, from University of Oxford
 
 ## Abstract
 **Mutual information is plausible to detect adversarial examples**
@@ -11,9 +11,12 @@
 **Several experiments**
 > We give illustrative experiments using MNIST to demonstrate the intuition underlying the different measures of uncertainty, as well as experiments on a real world Kaggle dogs vs cats classification dataset. 
 
-## Method and Result
+## Result
 Mutual information (MI) between model parameters and class label. <br>
 The possible hypothis is that adversarial examples lie off the manifold. Image generated from the interpolation on latent vector is thought to be on-manifold with aleotoric uncertainty, whereas interpolated image in image space is considered off-manifold (first figure). <br>
 Second and third figure shows the MI and predictive entropy, respectively. MI is low between the classes, but predictive entropy is high. <br>
 ![](img.png)
 
+## Review
+- Is the hypothesis plausible?
+- What if we can make adversarial images that cannot be detected by mutual information? (Does it exist? How can we make it?) Does this mean can we make adversarial images that is considered aleotoric uncertainty? 
