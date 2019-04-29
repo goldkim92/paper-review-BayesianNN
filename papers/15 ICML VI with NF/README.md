@@ -12,6 +12,6 @@
 > We demonstrate that the theoretical advantages of having posteriors that better match the true posterior, combined with the scalability of amortized variational approaches, provides a clear improvement in performance and applicability of variational inference. 
 
 ## Method
-The paper introduces new methods of normalizing flows, called `planer flows` and `radial flows`. These flows are used to transform a simple gaussian distribution to approximate posterior distribution in DLGM(Deep Latent Gaussian Models).
+The paper introduces new methods of normalizing flows, called `planer flows` and `radial flows`. These flows are used to transform a latent random variable with simple gaussian distribution to an approximate posterior distribution in DLGM(Deep Latent Gaussian Models).
 ![](img.png)
 
