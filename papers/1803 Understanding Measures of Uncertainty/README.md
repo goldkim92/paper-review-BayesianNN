@@ -17,6 +17,6 @@ The possible hypothis is that adversarial examples lie off the manifold. Image g
 Second and third figure shows the MI and predictive entropy, respectively. MI is low between the classes, but predictive entropy is high. <br>
 ![](img.png)
 
-## Personal Review
+## Discussion
 - Is the hypothesis plausible?
 - What if we can make adversarial images that cannot be detected by mutual information? (Does it exist? How can we make it?) Does this mean we can make adversarial images that is considered aleotoric uncertainty? 
