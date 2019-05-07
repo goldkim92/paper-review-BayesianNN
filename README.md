@@ -10,3 +10,5 @@
 [[summary](papers/1701%20Gaussian%20Variational%20Approximation%20with%20a%20factor%20covariance%20structure)]
 - 1803 Understanding Measures of Uncertainty for Adversarial Example Detection 
 [[summary](papers/1803%20Understanding%20Measures%20of%20Uncertainty)]
+- 1810 Uncertainty in Neural Networks: Bayesian Ensembling
+[[summary](papers/1810%20Bayesian%20Ensembling)]
