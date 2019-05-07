@@ -11,6 +11,8 @@
 ## Method
 The author brings the idea from *randomised MAP sampling*. Consider the Baye's rule, poserior is proportionate to the likelihood times the prior. In *randomised MAP sampling*, the prior mean is considered a random variable, and by calculating MAP from sampled prior mean, the distribution of MAP produces the true posterior. The distribution of the prior mean is called *anchor noise distribution*. This method can be seen as the minimisation of MAP parameters estimates with priors (regularizaiton term) centered at non-zero values.
 ![](img1.png)
+<br>
+
 As a result, It closely approximated ground truth as more NNs are sampled.
 ![](img2.png)
 
